@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "732431764812",
+    "project_id": "analytic-1349"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732431764812:android:fef7ce966fff622d",
+        "android_client_info": {
+          "package_name": "com.analytics.demo.googleanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzVb7e2K6lO8E-kMq314j4OMl5-whDcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-79754907-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
